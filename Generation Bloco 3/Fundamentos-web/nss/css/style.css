@@ -1,0 +1,59 @@
+/*ESTILO CSS INDEX.html*/
+.titulo{
+    text-align: center;
+    color: royalblue;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgb(247, 0, 0);
+}
+.texto1{
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+
+}
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+}
+.menu li {
+
+    display: inline;
+    padding: 10px;
+    font-size: 15px;
+}
+.menu a {
+    text-decoration: none;
+    color: #000;
+}
+.menu a:hover{
+    color: yellowgreen;
+}
+.p-30 {
+    padding: 30px;
+}
+.br-50 {
+    border-radius: 50%;
+}
+.wp{
+    width: 380px;
+    height: 335px;
+}
+.video{
+    justify-content: center;
+}
+.tm-social{
+    width: 40px;
+    height: 40px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.justify{
+    text-align: justify;
+}
+.ml-50{
+    margin-left: 50px;
+}
+
+/*Estilo CSS Contato.html/

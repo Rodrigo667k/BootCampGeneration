@@ -1,0 +1,11 @@
+Que outros recursos Tiago poderia ter usado para aprender a nova linguagem de programação?
+R: entra em forums e pegando dicas de pessoas que ja sabem da linguam, estudar alem do trabalho
+
+O que Tiago deveria fazer se a equipe decidir que ele não possui conhecimento suficiente sobre Haskell para fazer parte do projeto?
+R: infelizmente se ele nao tem os requisitos tecnicos para seguir parte do projeto o melhor é ele estudar mais sobre a linguagem se especializar mais
+
+O que Tiago poderia ter feito de forma diferente nos seus primeiros meses para antecipar-se a esse desafio?
+R:comunicacndo ao superior dele se tem alguma lingua que seria bom ele apreender qual as tecnologia que eles almeja na empresa
+
+Qual das ações de Tiago demonstra uma mentalidade de persistência?
+Tiago está disposto a dedicar muitas horas além de seu turno de trabalho para aprender a nova linguagem e compartilhá-la com a equipe

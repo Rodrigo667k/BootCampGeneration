@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\REI RODRIGO\Desktop\GamesLibrary-main\GamesLibrary-main"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\projeto sirius\backend\Back-End"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\projeto sirius\backend\backend"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\projeto sirius\backend\Back-End-Deploy\Back-End-Deploy\deploy_sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\generetion\Java\demo"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\front end\Back-End-Security\Sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\Back-End-Security\Back-End-Security\Sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\Back-End-main\Back-End-Deploy\Sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\Back-End-main\Back-End-main\Sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\Nova pasta\Back-End\Sirius"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\generetion\Generetion bloco 2\Spring\blogpessoal\blogpessoal"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\generetion\Generetion bloco 2\Spring\blogpessoaldeplouy\blogpessoal2"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\generetion\Generetion bloco 2\Spring\blogpessoaldeplouy"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\lojagame\lojagame"/>
+			<item value="C:\Users\REI RODRIGO\Desktop\lojagame\lojagame\lojagame"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

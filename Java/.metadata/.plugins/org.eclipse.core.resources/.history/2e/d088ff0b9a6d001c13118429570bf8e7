@@ -1,0 +1,32 @@
+package Privatepublicprotegido;
+
+public class aula1 {
+	public String modelo;
+	public String cor;
+	private float ponta;
+	protected int carga;
+	protected boolean tampada;
+	public void status() {
+		System.out.print(" modelo " + this.modelo);
+		System.out.print(" cor " + this.cor);
+		System.out.print(" ponta " + this.ponta);
+		System.out.print( " carga " + this.carga);
+		System.out.print(" tampada " + this.tampada);
+	}
+	public void rabiscar() {
+		if (this.tampada == true){
+			System.out.print("ERRO");		
+
+		} else {
+			System.out.print("Estou rabiscando, Calma");
+			
+		}
+	}
+	protected void tampar() {
+		this.tampada = true;
+	}
+	protected void destampada() {
+		this.tampada = false;
+	}
+
+}
